@@ -17,6 +17,8 @@ OpenCVの読み込み処理に時間がかかっていることがわかる。
 
 
 ###　実行方法
+```bash
 python main.py InputDirectory OutputDirectory
+```
 
 
